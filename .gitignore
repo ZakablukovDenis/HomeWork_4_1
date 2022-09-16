@@ -1,0 +1,6 @@
+# IGNORE ALL LOGS
+tmp/
+**/.DS_Store
+**/Thumbs.db
+**/*.*_old
+**/*.*_backup
